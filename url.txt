@@ -1,0 +1,2 @@
+Link Dataset    : https://www.kaggle.com/datasets/rajatraj0502/linkedin-job-2023/data?select=companies.csv
+Link Deployment : https://companies-predict.streamlit.app/
