@@ -4,6 +4,7 @@ In the job search process, job seekers not only consider the available positions
 - Company culture and values: Understanding whether the company promotes work-life balance, innovation, or diversity.
 - Organization size and structure: Assessing whether the company is a large organization with a clear hierarchical structure or a smaller company that is more flexible and dynamic.
 - Career growth and development opportunities: Evaluating whether the company offers clear career paths and opportunities for professional growth.
+
 By applying Natural Language Processing (NLP) techniques, job seekers can analyze company descriptions to extract information related to culture, values, and key focus areas, as well as classify companies based on size and number of employees. This enables job seekers to align their choices with companies that best match their career goals and personal values.
 
 ## Objectives
